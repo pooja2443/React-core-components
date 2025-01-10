@@ -6,6 +6,7 @@ export default function App() {
     <View style={{ flex: 1, backgroundColor: "plum", justifyContent: "center", alignItems: "center" }}>
       <View style={{ height: 200, width: 200, backgroundColor: "lightblue", marginBottom: 10 }}></View>
       <View style={{ height: 200, width: 200, backgroundColor: "lightgreen" }}></View>
+      <View style={{ height: 200, width: 200, backgroundColor: "pink" }}></View>
     </View>
   );
 }
